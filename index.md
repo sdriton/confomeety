@@ -7,4 +7,5 @@ maturity and respect conformity processes.
 
 The boards are displayed as cards as well as a traditional list.
 
-![Confomeety boards screen](https://sdriton.github.io/confomeety/images/board_view.png)(https://sdriton.github.io/confomeety/images/board_view.png)
+![Confomeety boards screen](https://sdriton.github.io/confomeety/images/board_view.png)
+
