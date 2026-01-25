@@ -1,1 +1,0 @@
-# confomeety.github.io
